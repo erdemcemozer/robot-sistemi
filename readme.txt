@@ -1,15 +1,17 @@
 Robot Sistemi
 
-Erdem Özer - 170201015
+Erdem Ã–zer - 170201015
 Muhammed Kurfeyiz - 170201083
 
-Bu readme.txt dosyası "Robot Sistemi" projesine aittir.
+Bu readme.txt dosyasÄ± "Robot Sistemi" projesine aittir.
 
-1- Paketin İçeriği
+1- Paketin Ä°Ã§eriÄŸi
 -------------------------------------------
 readme.txt - Bu dosya.
-ROBOT PROJESİ.docx - Rapor.
-170201015-170201083.txt - Projenin tek dosyaya indirgenmiş kaynak kodları.
+ROBOT PROJESÄ°.docx - Rapor.
+170201015-170201083.txt - Projenin tek dosyaya indirgenmiÅŸ kaynak kodlarÄ±.
+uml1.jpg - Inheritance mantÄ±ÄŸÄ±nÄ± gÃ¶stermek iÃ§in uml diyagramÄ±.
+ProLab3.zip - Projenin sÄ±kÄ±ÅŸtÄ±rÄ±lmÄ±ÅŸ hali.
 -------------------------------------------
 
 2- Sistem Gereksinimleri
@@ -17,23 +19,23 @@ ROBOT PROJESİ.docx - Rapor.
 NetBeans IDE - https://netbeans.org/downloads/
 -------------------------------------------
 
-3- Programı Çalıştırmak
+3- ProgramÄ± Ã‡alÄ±ÅŸtÄ±rmak
 -------------------------------------------
-1) Uygulamayı IDE üzerinden derledikten sonra veya kullandığınız sistemin konsol ekranından
-gerekli komutlar ile çalıştırın.
-2) İlk olarak IDE içinden kullanıcıdan veri girişi yapılması istenecek (robot sayısı, robot türleri, robotların
-özellikleri).
-3) Daha sonra kullanıcıya hangi robotu kullanmak istediği sorulacak.
-4) Kullanıcının cevabına göre program hangi problemle karşılaştığını bilecek ve probleme göre sorular
-soracak (robotun yeri, varsa engeller ve yerleri, gideceği veya kolun uzanacağı konum).
-5) Bundan sonra problemi kullanılan robot ile çözmeye çalışacak ve eğer robotun özellikleri elverişli ise
-problem çözüldüğünde robotun son konumunu, problemi çözme zamanını ve varsa engellerden geçme süresini kullanıcıya
-döndürecek.
-6) Eğer robot problemi çözmeye elverişli değil yada bir kısmını çözebiliyorsa buna göre hata verecek.
+1) UygulamayÄ± IDE Ã¼zerinden derledikten sonra veya kullandÄ±ÄŸÄ±nÄ±z sistemin konsol ekranÄ±ndan
+gerekli komutlar ile Ã§alÄ±ÅŸtÄ±rÄ±n.
+2) Ä°lk olarak IDE iÃ§inden kullanÄ±cÄ±dan veri giriÅŸi yapÄ±lmasÄ± istenecek (robot sayÄ±sÄ±, robot tÃ¼rleri, robotlarÄ±n
+Ã¶zellikleri).
+3) Daha sonra kullanÄ±cÄ±ya hangi robotu kullanmak istediÄŸi sorulacak.
+4) KullanÄ±cÄ±nÄ±n cevabÄ±na gÃ¶re program hangi problemle karÅŸÄ±laÅŸtÄ±ÄŸÄ±nÄ± bilecek ve probleme gÃ¶re sorular
+soracak (robotun yeri, varsa engeller ve yerleri, gideceÄŸi veya kolun uzanacaÄŸÄ± konum).
+5) Bundan sonra problemi kullanÄ±lan robot ile Ã§Ã¶zmeye Ã§alÄ±ÅŸacak ve eÄŸer robotun Ã¶zellikleri elveriÅŸli ise
+problem Ã§Ã¶zÃ¼ldÃ¼ÄŸÃ¼nde robotun son konumunu, problemi Ã§Ã¶zme zamanÄ±nÄ± ve varsa engellerden geÃ§me sÃ¼resini kullanÄ±cÄ±ya
+dÃ¶ndÃ¼recek.
+6) EÄŸer robot problemi Ã§Ã¶zmeye elveriÅŸli deÄŸil yada bir kÄ±smÄ±nÄ± Ã§Ã¶zebiliyorsa buna gÃ¶re hata verecek.
 -------------------------------------------
 
 4- Parametre
 -------------------------------------------
-Robotların tanımlanması sırasında motor, yuk ve uzuv parametreleri vardır.
+RobotlarÄ±n tanÄ±mlanmasÄ± sÄ±rasÄ±nda motor, yuk ve uzuv parametreleri vardÄ±r.
 -------------------------------------------
 
